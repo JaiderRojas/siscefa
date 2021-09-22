@@ -1,0 +1,29 @@
+html {
+  margin: 0;
+}
+body {
+  font-family: "Times New Roman", serif;
+  margin: 45mm 8mm 2mm 8mm;
+}
+
+header {
+	position: fixed;
+	top: 0cm;
+	left: 0cm;
+	right: 0cm;
+	height: 2cm;
+	color: dark;
+	text-align: center;
+	line-height: 30px;
+
+}
+footer{
+	position: fixed;
+	bottom: 0cm;
+	left: 0cm;
+	right: 0cm;
+	height: 2cm;
+	color: darkgoldenrod;
+	text-align: center;
+	line-height: 35px;
+}
